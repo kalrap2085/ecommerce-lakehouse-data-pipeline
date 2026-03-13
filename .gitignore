@@ -1,0 +1,35 @@
+# AWS credentials
+.env
+.aws/
+credentials
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark / Hive
+metastore/
+spark-warehouse/
+
+# Kafka
+kafka-data/
+kafka/kafka-data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary notebooks
+Untitled.ipynb
