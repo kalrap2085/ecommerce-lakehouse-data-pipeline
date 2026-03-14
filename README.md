@@ -317,6 +317,11 @@ This project demonstrates:
 
 ---
 
+## 🎥 Project Demo — Smart Urban Traffic Intelligence System
+
+Watch the full walkthrough on **YouTube**:  
+🔗 [https://youtu.be/h-Zci2HNJ0c](https://youtu.be/h-Zci2HNJ0c)
+
 # Author
 
 **Pooja Kalra**
