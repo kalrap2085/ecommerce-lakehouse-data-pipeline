@@ -320,7 +320,7 @@ This project demonstrates:
 ## 🎥 Project Demo — Smart Urban Traffic Intelligence System
 
 Watch the full walkthrough on **YouTube**:  
-🔗 [https://youtu.be/h-Zci2HNJ0c](https://youtu.be/h-Zci2HNJ0c)
+🔗 [![Watch the video](https://img.youtube.com/vi/h-Zci2HNJ0c/0.jpg)](https://www.youtube.com/watch?v=h-Zci2HNJ0c)
 
 # Author
 
