@@ -1,0 +1,4 @@
+payment_id,order_id,payment_date,customer_id,store,channel,payment_method,currency,amount,status,is_refund,refund_amount
+PAY1001,O1001,20250101,CUST001,AMZ_US,MKT,Credit Card,USD,900,Paid,False,0
+PAY1002,O1002,20250102,CUST002,EBAY,MKT,Credit Card,USD,1000,Paid,False,0
+

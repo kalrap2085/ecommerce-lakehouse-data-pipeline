@@ -1,0 +1,5 @@
+channel_code,channel_name,channel_type,channel_desc,is_deleted
+MKT,Marketplace,MARKETPLACE,Amazon / eBay,false
+RET,Retail,RETAIL,Physical retail stores,false
+DTC,Direct-to-customer,DIRECT,Brand-owned website,false
+B2B,Wholesale,B2B,Selling to distributors or other businesses,false

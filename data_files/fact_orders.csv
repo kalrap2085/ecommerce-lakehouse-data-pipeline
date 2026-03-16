@@ -1,0 +1,3 @@
+order_id,order_date,ship_date,customer_id,store,channel,product,currency,quantity,unit_price,list_price,shipping_amount,shipping_paid_by_customer,tax_amount,order_status,payment_status
+O1001,20250101,20250102,CUST001,AMZ_US,MKT,P1001,USD,2,450,900,20,true,0,Delivered,Paid
+O1002,20250102,20250104,CUST002,EBAY,MKT,P1003,USD,2,500,1000,10,false,0,Delivered,Paid

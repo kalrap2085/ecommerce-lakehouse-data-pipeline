@@ -1,0 +1,4 @@
+product_id,store,channel,product_name,product_description,brand,category,sub_category,department,model,weight,weight_unit,length,width,height,size,color,material,product_status,launch_date,discontinued_date,warranty_period,is_deleted,list_price,cost_price,currency,effective_start_dt,is_current,is_price_deleted
+P1001,AMZ_US,MKT,Smartphone XYZ,Latest smartphone,BrandA,Electronics,Mobile,Devices,Model 10,0.2,kg,15,7,0.8,Medium,Black,Plastic,Active,2025-01-01,,1 year,False,500,350,USD,2025-01-01,true,false
+P1002,EBAY,MKT,Laptop ABC,High performance laptop,BrandB,Electronics,Laptop,Computers,X-1,2,kg,35,25,2,Large,Silver,Metal,Active,2025-02-15,,3 years,False,1200,900,USD,2025-02-15,true,false
+P1003,EBAY,MKT,Smartphone XYZ,Latest smartphone,BrandA,Electronics,Mobile,Devices,Model 11,0.2,kg,15,7,0.8,Medium,Black,Plastic,Active,2025-01-01,,1 year,False,500,350,USD,2025-01-01,true,false

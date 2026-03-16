@@ -1,0 +1,6 @@
+customer_id,store,channel,first_name,middle_name,last_name,phone_number,email,gender,date_of_birth,effective_start_dt,is_current,is_deleted,address_id,address_type,address_line1,address_line2,city,state,zip,country,add_effective_start_dt,is_current_add,is_deleted_add
+CUST001,AMZ_US,MKT,John,,Doe,9991112222,john@gmail.com,Male,1988-05-10,2024-01-01,false,false,ADDR000001,Billing,123 Maple Street,Apt 4B,Seattle,WA,98101,US,2023-01-01,true,false
+CUST001,AMZ_US,MKT,John,,Doe,9991112222,john.doe@gmail.com,Male,1988-05-10,2024-07-01,true,false,ADDR000001,Billing,123 Maple Street,Apt 4B,Seattle,WA,98101,US,2023-01-01,true,false
+CUST002,EBAY,MKT,Anita,,Sharma,8882223333,anita@gmail.com,Female,1992-03-18,2024-03-01,true,false,ADDR000002,Mailing,456 Oak Avenue,Suite 200,San Francisco,CA,94102,USA,2022-05-05,true,false
+CUST003,WEB,DTC,Rahul,Kumar,Mehta,7773334444,rahul@brand.com,Male,1990-11-25,2024-02-15,true,false,ADDR000003,Mailing,1103 street1,,Mumbai,MH,400001,IN,20204-01-01,true,false
+CUST004,EBAY,MKT,Priya,,Iyer,6664445555,priya@gmail.com,Female,1995-07-08,2024-01-10,true,true,ADDR000004,Mailing,1801 street,,Bangalore,KA,5600001,IN,2022-01-01,true,false

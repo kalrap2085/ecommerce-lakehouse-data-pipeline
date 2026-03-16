@@ -1,0 +1,23 @@
+# Use Jupyter PySpark notebook with Python 3.8
+FROM jupyter/pyspark-notebook:2023-05-15
+
+USER root
+
+# Upgrade pip
+RUN pip install --upgrade pip
+
+# Install Python packages compatible with Python 3.8
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir \
+        delta-spark==2.3.0 \
+        kafka-python==2.0.2 \
+        pyarrow==10.0.1 \
+        ultralytics==8.3.184 \
+        opencv-python-headless==4.11.0.86 \
+        pandas==1.5.3 \
+        "numpy>=1.23,<1.27" \
+        boto3==1.28.0 \
+        hdfs
+
+# Switch back to jovyan
+USER jovyan

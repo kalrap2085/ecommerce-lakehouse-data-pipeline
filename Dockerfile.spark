@@ -1,0 +1,24 @@
+FROM bitnami/spark:3.3.0
+
+USER root
+
+# OS dependencies
+RUN install_packages openjdk-11-jdk wget curl libgl1 libglib2.0-0 libsm6 libxrender1 libxext6 build-essential
+
+# Upgrade pip and install Python packages (Python 3.8 compatible versions)
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir \
+        delta-spark==2.3.0 \
+        kafka-python==2.0.2 \
+        pyarrow==10.0.1 \
+        ultralytics==8.3.184 \
+        opencv-python-headless==4.11.0.86 \
+        pandas==1.5.3 \
+        "numpy>=1.23,<1.27" \
+        boto3==1.28.0 \
+        hdfs
+
+# Fix permissions so runtime user 1001 can access packages
+RUN chown -R 1001:1001 /opt/bitnami/python/lib/python3.8/site-packages
+
+USER 1001

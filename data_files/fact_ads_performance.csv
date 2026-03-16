@@ -1,0 +1,2 @@
+ad_id,ad_date,store,channel,campaign_name,impressions,clicks,cost,currency,orders_generated,revenue_generated
+AD1001,20250101,AMZ_US,MKT,Amazon Campaign,1000,50,200,USD,5,2250

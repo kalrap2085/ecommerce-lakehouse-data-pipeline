@@ -1,0 +1,7 @@
+currency_code,currency_name,country,is_deleted
+USD,US Dollar,US,false
+INR,Indian Rupee,IN,false
+CAD,Canadian Dollar,CA,false
+JPY,Japanese Yen,JP,false
+KRW,South Korean Won,KR,false
+MXN,Mexican Peso,MX,false

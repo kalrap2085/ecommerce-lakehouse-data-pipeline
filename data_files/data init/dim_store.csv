@@ -1,0 +1,8 @@
+store_code,channel,store_name,store_type,store_desc,region,country,state,city,zip,open_date,close_date,is_deleted
+AMZ_IN,MKT,Amazon India,MARKETPLACE,Amazon marketplace,APAC,IN,,,,2020-01-01,,false
+AMZ_US,MKT,Amazon USA,MARKETPLACE,Amazon marketplace,NA,US,,,,2019-05-01,,false
+AMZ_CA,MKT,Amazon Canada,MARKETPLACE,Amazon marketplace,NA,CA,,,,2021-04-01,,false
+AMZ_MX,MKT,Amazon Mexico,MARKETPLACE,Amazon marketplace,NA,MX,,,,2021-04-01,,false
+EBAY,MKT,eBay Global,MARKETPLACE,eBay marketplace,NA,US,,,,2019-03-01,,false
+RET_DEL,RET,Retail Delhi,PHYSICAL,Retail store Delhi-India,IN,IN,DL,Delhi,110001,2020-06-01,,false
+WEB,DTC,Brand Website,ONLINE,Brand-owned website,US,US,,,,2019-01-01,,false
